@@ -18,7 +18,7 @@ description: "Nothing to tell..." # This will show up in places like twitter, li
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
-theme: jekyll-theme-minimal
+theme: minima
 
 rss: rss
 
