@@ -4,4 +4,4 @@ go to la bestia
 
 
 ![Pizza](https://labestia-luzern.ch/site/templates/dist/assets/img/header-right-bg.jpg "Pizza")
-![Pizza Real](./_assets/pizza.jpg "Pizza Real")
+![Pizza Real](./pizza.jpg "Pizza Real")
